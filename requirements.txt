@@ -7,5 +7,6 @@ sentence-transformers
 langchain-ollama
 langchain-docling
 langchain-huggingface
-langchain-groq # <--- NOVO
-groq # <--- NOVO
+langchain-groq
+groq
+langchain-chroma  <-- ADICIONE ESTA LINHA
