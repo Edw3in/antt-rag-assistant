@@ -4,9 +4,8 @@ langchain-community
 langchain-text-splitters
 chromadb
 sentence-transformers
-langchain-ollama
 langchain-docling
 langchain-huggingface
 langchain-groq
 groq
-langchain-chroma  <-- ADICIONE ESTA LINHA
+langchain-chroma
