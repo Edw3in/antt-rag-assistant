@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+langchain-ollama
+langchain-docling
+langchain-huggingface
+langchain-groq # <--- NOVO
+groq # <--- NOVO
